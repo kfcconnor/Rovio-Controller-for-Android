@@ -1,0 +1,16 @@
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Release\Rovio Controller for Android.dll
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Release\Rovio Controller for Android.pdb
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Release\Rovio_Controller_for_Android.Rovio_Controller_for_Android.apk
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Release\Rovio_Controller_for_Android.Rovio_Controller_for_Android-Signed.apk
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\Rovio Controller for Android.dll
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\Rovio Controller for Android.pdb
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\android\bin\Rovio_Controller_for_Android.Rovio_Controller_for_Android.apk
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\res\layout\layout1.xml
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\res\layout\main.xml
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\res\values\strings.xml
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\res\drawable\icon.png
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\R.cs.flag
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\uploadflags.txt
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\Rovio Controller for Android.csprojResolveAssemblyReference.cache
+D:\Users\Connor\Documents\Visual Studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Release\Rovio Controller for Android.dll.mdb
+D:\Users\Connor\Documents\Visual Studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Release\Rovio Controller for Android.dll.mdb

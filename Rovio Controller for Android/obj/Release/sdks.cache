@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>21</AndroidApiLevel>
+  <AndroidApiLevelName>21</AndroidApiLevelName>
+  <AndroidNdkPath>D:\Users\Connor\Documents\Android\ndk\android-ndk-r10e</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>D:\Users\Connor\AppData\Local\Android\sdk\build-tools\23.0.3</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>D:\Users\Connor\AppData\Local\Android\sdk\build-tools\23.0.3</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>D:\Users\Connor\AppData\Local\Android\sdk</AndroidSdkPath>
+  <JavaSdkPath>C:\Program Files\Java\jdk1.7.0_79</JavaSdkPath>
+  <MonoAndroidBinPath>C:\Program Files (x86)\MSBuild\Xamarin\Android</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>C:\Program Files (x86)\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+  <ZipAlignPath>D:\Users\Connor\AppData\Local\Android\sdk\build-tools\23.0.3</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>21</SupportedApiLevel>
+  <AndroidSequencePointsMode>Normal</AndroidSequencePointsMode>
+</Sdk>

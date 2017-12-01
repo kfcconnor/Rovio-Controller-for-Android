@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <TextView
+        p1:id="@+id/accelerometer_text"
+        p1:layout_width="fill_parent"
+        p1:textAppearance="?android:attr/textAppearanceLarge"
+        p1:layout_height="wrap_content"
+        p1:text="TEXT"
+        p1:layout_marginLeft="15dp"
+        p1:layout_marginRight="15dp"
+        p1:layout_marginTop="49.0dp" />
+    <VideoView
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/videoView1" />
+    <Button
+        p1:text="Forwards"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        p1:layout_marginLeft="270dp" />
+    <Button
+        p1:text="Backwards"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/button1"
+        p1:id="@+id/button2"
+        p1:layout_marginLeft="260dp"
+        p1:layout_marginTop="170dp" />
+    <Button
+        p1:text="Left"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/button1"
+        p1:id="@+id/button3"
+        p1:layout_marginTop="55dp" />
+    <Button
+        p1:text="Right"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_toRightOf="@id/button3"
+        p1:id="@+id/button4"
+        p1:layout_marginLeft="459.3dp"
+        p1:layout_marginTop="103.6dp" />
+    <Button
+        p1:text="Rotate L"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_above="@id/button3"
+        p1:id="@+id/button5" />
+    <Button
+        p1:text="Rotate R"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_toRightOf="@id/button1"
+        p1:id="@+id/button6"
+        p1:layout_marginLeft="180dp" />
+</RelativeLayout>

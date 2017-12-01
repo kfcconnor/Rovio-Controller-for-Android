@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <TextView
+        p1:text="Rovio ID:"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textView1"
+        p1:layout_marginTop="50.0dp"
+        p1:layout_marginLeft="170dp" />
+    <TextView
+        p1:text="Username:"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textView1"
+        p1:layout_marginTop="95.0dp"
+        p1:layout_marginLeft="170dp" />
+    <TextView
+        p1:text="Password:"
+        p1:textAppearance="?android:attr/textAppearanceMedium"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/textView1"
+        p1:layout_marginTop="130.0dp"
+        p1:layout_marginLeft="170dp" />
+    <EditText
+        p1:inputType="text"
+        p1:layout_width="150.0dp"
+        p1:layout_height="wrap_content"
+        p1:layout_toRightOf="@id/textView1"
+        p1:id="@+id/editText1"
+        p1:layout_marginTop="40dp"
+        p1:layout_marginLeft="15dp" />
+    <EditText
+        p1:layout_width="150.0dp"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/editText1"
+        p1:id="@+id/editText2"
+        p1:layout_marginLeft="270dp" />
+    <EditText
+        p1:layout_width="150.0dp"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/editText2"
+        p1:id="@+id/editText3"
+        p1:layout_marginLeft="270dp"
+        p1:layout_marginTop="0dp"
+        p1:inputType="textPassword" />
+    <Button
+        p1:text="login"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:layout_below="@id/editText3"
+        p1:id="@+id/button1"
+        p1:layout_marginLeft="400.0dp" />
+</RelativeLayout>

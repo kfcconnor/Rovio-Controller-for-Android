@@ -1,0 +1,19 @@
+﻿1>------ Rebuild All started: Project: Rovio Controller for Android, Configuration: Release Any CPU ------
+1>    Processing: obj\Release\res\layout\layout1.xml
+1>    Processing: obj\Release\res\layout\main.xml
+1>    Processing: obj\Release\res\values\strings.xml
+1>d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\MainActivity.cs(52,29,52,30): warning CS0168: The variable 'e' is declared but never used
+1>d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\Activity1.cs(54,30,54,31): warning CS0168: The variable 'e' is declared but never used
+1>  Rovio Controller for Android -> d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Release\Rovio Controller for Android.dll
+1>    Processing: obj\Release\res\layout\layout1.xml
+1>    Processing: obj\Release\res\layout\main.xml
+1>    Processing: obj\Release\res\values\strings.xml
+1>    Processing: obj\Release\res\layout\layout1.xml
+1>    Processing: obj\Release\res\layout\main.xml
+1>    Processing: obj\Release\res\values\strings.xml
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+Build started.
+Build succeeded.
+Build started.
+Build succeeded.
+

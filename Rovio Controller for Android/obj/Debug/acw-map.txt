@@ -1,0 +1,8 @@
+Rovio_Controller_for_Android.Activity1, Rovio Controller for Android;md58251992a55670143d57584474aa125da.Activity1
+Rovio_Controller_for_Android.Activity1, Rovio Controller for Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58251992a55670143d57584474aa125da.Activity1
+Rovio_Controller_for_Android.Activity1;md58251992a55670143d57584474aa125da.Activity1
+rovio_controller_for_android.Activity1;md58251992a55670143d57584474aa125da.Activity1
+Rovio_Controller_for_Android.MainActivity, Rovio Controller for Android;md58251992a55670143d57584474aa125da.MainActivity
+Rovio_Controller_for_Android.MainActivity, Rovio Controller for Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58251992a55670143d57584474aa125da.MainActivity
+Rovio_Controller_for_Android.MainActivity;md58251992a55670143d57584474aa125da.MainActivity
+rovio_controller_for_android.MainActivity;md58251992a55670143d57584474aa125da.MainActivity

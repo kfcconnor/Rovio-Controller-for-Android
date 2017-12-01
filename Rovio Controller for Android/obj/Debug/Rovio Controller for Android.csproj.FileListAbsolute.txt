@@ -1,0 +1,15 @@
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Debug\Rovio Controller for Android.dll
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Debug\Rovio Controller for Android.pdb
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Debug\Rovio_Controller_for_Android.Rovio_Controller_for_Android.apk
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Debug\Rovio_Controller_for_Android.Rovio_Controller_for_Android-Signed.apk
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\Rovio Controller for Android.dll
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\Rovio Controller for Android.pdb
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\android\bin\Rovio_Controller_for_Android.Rovio_Controller_for_Android.apk
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\res\layout\main.xml
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\res\values\strings.xml
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\res\drawable\icon.png
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\R.cs.flag
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\uploadflags.txt
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\res\layout\layout1.xml
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\obj\Debug\Rovio Controller for Android.dll.mdb
+d:\users\connor\documents\visual studio 2015\Projects\Rovio Controller for Android\Rovio Controller for Android\bin\Debug\Rovio Controller for Android.dll.mdb
